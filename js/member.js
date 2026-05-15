@@ -1,6 +1,6 @@
 var member = [];
 
-for (var i = 0; i < 100; i++) {
+for (var i = 0; i < 50; i++) {
   if (i < 9) {
     member[i] = {
       name: "00" + (i + 1) + "号",
